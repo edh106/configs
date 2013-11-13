@@ -1,0 +1,41 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/eli/PSVM/" . "js/")
+ ("/home/eli/" . "PSVM/")
+ ("/var/" . "www/")
+ ("/" . "var/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/eli/PSVM/js/"
+ "/var/www/"
+ "/home/eli/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "edit.js"
+ "info.php"
+ ".emacs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/eli/" (21105 29212 141768 171000) ".xmobarrc~" ".gnash/" ".xinitrc~" ".gnome2/" "proj.pdf" "IDEA/" ".thumbnails/" ".gksu.lock" "PSVM/" ".bashrc~" ".gnome/" ".xsession-errors.old" ".git-credential-cache/" "Public/" "./" ".gtk-bookmarks" "IdeaProjects/" ".gitconfig" "lab1.doc" "Desktop/" ".mission-control/" ".gvfs/" ".fontconfig/" "test.c~" ".~lock.proj1.doc#" ".IdeaIC12/" "../" ".pki/" ".config/" ".vboxclient-seamless.pid" "proj1.doc" "Lab5.war" ".mysql_history" "edh106@pluto.cse.msstate.edu" "Pictures/" ".vboxclient-clipboard.pid" ".xinitrc" "test.c" ".emacs.d/" ".bashrc" "Templates/" ".pulse-cookie" ".bash_logout" ".xmonad/" "Downloads/" ".xmobarrc" "projectPartB.docx" ".ssh/" ".vboxclient-display.pid" ".local/" "icecream.html" "os/" ".xmodmap" ".~lock.projectPartB.docx#" "PycharmProjects/" "Lab5/" ".bash_history" "proj2.pdf" ".mozilla/" "#shell.c#" ".ICEauthority" ".gnome2_private/" ".pulse/" ".PyCharm30/" ".profile" ".sqlite_history" ".emacs~" ".gconf/" ".gimp-2.8/" ".emacs" "Videos/" ".git/" "a.out" "Documents/" "shell/" ".dbus/" "Music/" ".cache/" ".xsession-errors" ".pip/")
+
+ ("/home/eli/PSVM/js/" (21085 27371 396921 510000) "shBrushCpp.js" "redirect.js~" "#execute.js#" "execute.js" "./" "shBrushPython.js" "../" "edit.js" "tab.js" "shBrushJava.js" "#edit.js#" "shBrushJScript.js" "redirect.js" "shCore.js" "edit.js~" "execute.js~")
+
+ ("/home/eli/PSVM/" (21087 2728 121266 759000) "js/" "templates/" ".gitignore" "backend/" "README.md" "./" "request.pyc" "../" "credentials.key" "database.pyc" "docs/" "settings.pyc" "Credential.key" "markup.pyc" "server.py" "database.db" "css/" ".git/" "mail.pyc" "create_database.py")
+
+ ("/var/www/" (21105 25287 673084 82000) "index.html" "./" "../" "#info.php#" "info.php~" "#_asudo_broot@localhost_b_avar_awww_ainfo.php#" "info.php")
+
+ ("/var/" (21105 22769 878782 681000) "opt/" "lib/" "backups/" "./" "cache/" "../" "games/" "tmp/" "log/" "spool/" "lock/" "www/" "mail/" "run/" "local/")
+
+ ("/home/" (21019 40347 346257 672000) "./" "../" "eli/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
