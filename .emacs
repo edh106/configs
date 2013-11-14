@@ -5,6 +5,8 @@
 (scroll-bar-mode -1)
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
 
+(setq c-default-style "linux"
+          c-basic-offset 4)
 
 
 
